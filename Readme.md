@@ -95,7 +95,7 @@ ZADD
 
 6. Streams
 
-It is used to store real time data, where we want to capture the data for every seconds like- User click behaviour
+It is used to store real time data, where we want to capture the data for every seconds like- User click behaviour, sensor monitoring
 
 7. Geospatial
 
